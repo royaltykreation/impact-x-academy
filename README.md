@@ -1,29 +1,28 @@
 # ImpactX Academy
 
-ImpactX Academy is an online tutoring and exam preparation platform designed to help students learn better, prepare smarter, and succeed academically.
+ImpactX Academy is a **global online tutoring and exam preparation platform** committed to helping students learn better, prepare smarter, and succeed academically—no matter where they are in the world.
 
 ## What We Offer
 - Online tutoring
 - Exam preparation classes
 - Academic support for students
-- One-on-one and group sessions
+- One-on-one and group learning sessions
 
 ## Who We Serve
 - Primary & secondary school students
 - Exam candidates
-- Parents looking for quality academic support
+- International learners
+- Parents seeking quality academic support worldwide
 
 ## Learning Mode
-- Online classes
-- Flexible schedules
-- Qualified tutors
+- Fully online classes
+- Flexible schedules across time zones
+- Experienced and qualified tutors
 
-## Our Goal
-To provide accessible, quality, and result-driven education for every learner.
+## Our Mission
+To make **quality education accessible globally**, empowering students with the knowledge and confidence to excel academically.
 
 ## Contact Us
-📩 Message us on social media  
+📩 Message us on our social media platforms  
 📧 Email: impactxacademy@gmail.com  
-📱 WhatsApp: +234 XXX XXX XXXX
-# impact-x-academy
-Official repository for ImpactX Academy – an online tutoring and exam preparation platform
+🌍 Serving students worldwide
